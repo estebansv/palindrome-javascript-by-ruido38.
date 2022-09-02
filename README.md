@@ -1,6 +1,4 @@
 # palindrome-javascript-by-ruido38.
-Given the string, check if it is a palindrome javascript by ruido38.
-
 
 function solution(str){
   let reversed = "";
